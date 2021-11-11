@@ -2,6 +2,11 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Daniel Baars",
     "description": "I want to learn!",
+    "keywords": [
+        "JavaScript",
+        "Node.js",
+        "freecodecamp"
+    ],
     "dependencies": {
         "express": "^4.14.0"
     },
